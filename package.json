@@ -38,7 +38,7 @@
     "http-server": "0.13.0",
     "mustache": "~2.3.0",
     "node-sass": "3.13.1",
-    "socket.io": "1.4.6",
+    "socket.io": "1.7.4",
     "underscore": "~1.13.0"
   },
   "license": "CC-BY-4.0"
