@@ -20,7 +20,7 @@
     "url": "https://github.com/lowsky/deck-graphql-relay-talk"
   },
   "engines": {
-    "node": "5"
+    "node": "22"
   },
   "devDependencies": {
     "express": "5.1.0",
