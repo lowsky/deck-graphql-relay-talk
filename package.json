@@ -37,7 +37,7 @@
     "grunt-zip": "~1.0.0",
     "http-server": "14.1.1",
     "mustache": "~4.2.0",
-    "node-sass": "3.13.1",
+    "node-sass": "9.0.0",
     "socket.io": "4.8.1",
     "underscore": "~1.13.0"
   },
