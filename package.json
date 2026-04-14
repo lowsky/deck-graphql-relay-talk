@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "express": "5.2.1",
-    "grunt": "1.6.1",
+    "grunt": "1.6.2",
     "grunt-autoprefixer": "~3.0.3",
     "grunt-cli": "1.5.0",
     "grunt-contrib-connect": "5.0.1",
